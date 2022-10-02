@@ -1,0 +1,4 @@
+package leet
+
+class Delete {
+}
